@@ -7,4 +7,3 @@ Meu nome é Beatriz Nunes
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
   ### Segue lá @eu_biamartins0
 - ![](https://media.tenor.com/IwNDyUy_U-0AAAAC/dog-funny.gif)
-file:///tmp/guest-y7icuc/%C3%81rea%20de%20Trabalho/index.html
