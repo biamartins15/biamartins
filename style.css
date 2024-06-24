@@ -23,6 +23,8 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(rgb(156, 53, 53),rgb(61, 53, 53))  ;
+    background-image: linear-gradient(rgb(156, 53, 53),rgb(61, 53, 53));
+    color: aliceblue;
+    display: flex;
     
 }
