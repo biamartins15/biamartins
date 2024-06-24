@@ -26,5 +26,11 @@ body {
     background-image: linear-gradient(rgb(156, 53, 53),rgb(61, 53, 53));
     color: aliceblue;
     display: flex;
+    justify-content: center;
+    align-items: center;
     
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
