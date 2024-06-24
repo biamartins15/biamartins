@@ -28,9 +28,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24 px 0;
     
 }
 
 .escola-div-conteudo{
     width: 35%;
 }
+
+.escola_titulo{}
