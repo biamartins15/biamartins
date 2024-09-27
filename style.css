@@ -1,45 +1,16 @@
-*{
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+* {
     margin: 0;
     padding: 0;
-}
-body {
-    font-family: 'Poppins', sans-serif;
-}
-.cabecalho {
-    background-color: rgb(156, 53, 53);
-    color: black;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.cabecalho-imagem{
-    width: 10%;
-}
-
-.cabecalho-imagem{
-    width: 25%;
-}
-
-.escola{
-    background-image: linear-gradient(rgb(156, 53, 53),rgb(61, 53, 53));
-    color: aliceblue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24 px 0;
-    
-}
-
-.escola-div-conteudo{
-    width: 35%;
-}
-
-.escola-imagem{
-    width: 30%;
-}
-
-.estudante_imagem{
-    width: 120px;
 }
